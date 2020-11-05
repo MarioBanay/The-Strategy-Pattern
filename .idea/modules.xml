@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimUDuck/SimUDuck.iml" filepath="$PROJECT_DIR$/SimUDuck/SimUDuck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimUDuckWithTheStrategyPattern/SimUDuckWithTheStrategyPattern.iml" filepath="$PROJECT_DIR$/SimUDuckWithTheStrategyPattern/SimUDuckWithTheStrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/The-Strategy-Pattern.iml" filepath="$PROJECT_DIR$/The-Strategy-Pattern.iml" />
     </modules>
   </component>

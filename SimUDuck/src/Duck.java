@@ -7,5 +7,9 @@ public abstract class Duck {
         System.out.println("Swim from superclass");
     }
 
+    void fly() {
+        System.out.println("Fly from superclass");
+    }
+
     abstract void display();
 }
